@@ -2949,7 +2949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.06
-  buttonDistance: 0.08
+  buttonDistance: 0.06
   spreadHeight: 0.35
   buttons: {fileID: 1832663859}
   button:
